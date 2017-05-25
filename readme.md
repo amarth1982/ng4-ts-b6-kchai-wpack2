@@ -1,6 +1,6 @@
 # Scaffold Angular 4 application
 
-Inspired by @kentcdodds Using Webpack for Production and My experience with Angular 4, Created an angular 4 scaffold application for easier use.
+Inspired by @kentcdodds __Intro to Production Webpack Course__ and My experience with Angular, Created an angular 4 scaffold application for easier use.
 
 #### Language(s)
 1. Javascript - for test files and config files
